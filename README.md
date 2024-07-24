@@ -1,5 +1,7 @@
 # NEKKO BOT
 
+![Без имени-1](https://github.com/user-attachments/assets/aba500b3-45c8-4cf1-986b-ccd213606cc1)
+
 ## Проектная работа по ВВРИС.
 
 ### Система рекомендаций музыкальных произведений
@@ -32,4 +34,13 @@
 Основные библиотеки: TelegramBotAPI, Pandas, Numpy
 Базирование GUI интерфейса: Telegram Bot
 
+![image](https://github.com/user-attachments/assets/815dbc3d-ee57-4608-82b6-46144c8393e1)
+
+![image](https://github.com/user-attachments/assets/f09c6553-1d22-46f3-9f4b-286cfa6360c2)
+
+![image](https://github.com/user-attachments/assets/cbf35a1c-56fb-42ac-93c4-0a842c601ff5)
+
+![image](https://github.com/user-attachments/assets/746cbaea-8a1c-4378-a944-6ee9a34204a0)
+
+![image](https://github.com/user-attachments/assets/3a0fbe40-b12c-4bc3-879a-260a1dce0e6c)
 
